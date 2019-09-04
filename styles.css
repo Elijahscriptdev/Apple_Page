@@ -12,3 +12,56 @@ body {
     background: url("images/background.jpg") 50% 100% no-repeat;
     background-size: 100% 1300px;
   }
+
+.nav-header {
+  align-items: center;
+}
+
+.nav-header a{
+  text-decoration: none;
+  color: rgb(243, 239, 239);
+  align-items: center;
+}
+
+.nav-header ul{
+  display: flex;
+  list-style-type: none;
+}
+
+.nav-header i {
+  position: absolute;
+}
+
+.icon { 
+  padding: 5px; 
+  min-width: 20px;
+}  
+
+.input-field { 
+  width: 100%; 
+  padding: 2px; 
+  text-align: center;
+  border-radius: 10px; 
+  border: 1px solid;
+}
+
+.nav-list { 
+  width: 1200px; 
+  margin-bottom: 10px;
+  text-align: center;
+   
+}
+
+.nav-list .fab {
+  font-size: 25px;
+}
+
+.nav-header li {
+  border: 1px solid;
+  padding: 8px 25px;
+  position: relative;
+  top: 150px;
+  left: 100px;
+  z-index: 9999999999;
+  width: 600px;
+}
