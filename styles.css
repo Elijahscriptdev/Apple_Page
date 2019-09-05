@@ -238,3 +238,41 @@ body {
 .promo img {
   width: 100%;
 }
+
+/* footer */
+footer {
+  width: 100%;
+  height: 90px;
+  min-width: 980px;
+  font-size: 0.627em;
+  line-height: 1.2em;
+  color: #6e6e6e;
+  color: gray;
+}
+
+footer ul{
+  display: flex;
+  flex-direction: row;
+}
+/* 
+
+.upper-footer {
+  float: right;
+}
+
+.upper-footer i {
+  font-style: normal;
+  padding-right: 4px;
+  border-right: 1px solid lightgray;
+}
+
+nav i:hover {
+  color: white;
+  background-color: rgb(88, 88, 88);
+}
+
+.upper-footer i:last-child {
+  border-right: none;
+}
+
+nav *:last-child { border-right: none; } */
