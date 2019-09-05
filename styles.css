@@ -254,25 +254,7 @@ footer ul{
   display: flex;
   flex-direction: row;
 }
-/* 
 
-.upper-footer {
-  float: right;
+footer section p{
+  margin: 0 auto
 }
-
-.upper-footer i {
-  font-style: normal;
-  padding-right: 4px;
-  border-right: 1px solid lightgray;
-}
-
-nav i:hover {
-  color: white;
-  background-color: rgb(88, 88, 88);
-}
-
-.upper-footer i:last-child {
-  border-right: none;
-}
-
-nav *:last-child { border-right: none; } */
