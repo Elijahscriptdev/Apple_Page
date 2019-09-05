@@ -158,6 +158,7 @@ body {
     background: url("images/background.jpg") 50% 100% no-repeat;
     background-size: 100% 1300px;
     position: relative;
+    grid-area: hero;
   }
 
 .hero-header {
@@ -226,3 +227,30 @@ body {
   z-index: 9999999999;
   width: 600px;
 }
+
+/* Promo */
+
+.promo {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.promo img {
+  width: 100%;
+}
+/* 
+.advert1 {
+  grid-area: advert1;
+}
+
+.advert2 {
+  grid-area: advert2;
+}
+
+.advert3 {
+  grid-area: advert3;
+}
+
+.advert4 {
+  grid-area: advert4;
+} */
