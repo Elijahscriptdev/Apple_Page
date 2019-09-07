@@ -326,5 +326,7 @@ footer {
   display: flex;
 }
 
-
+.footer_two ul{
+  display: flex;
+}
 
