@@ -97,17 +97,17 @@ header,
 hgroup,
 menu,
 nav,
-section{ display: block; }
+section{ display: block;}
 
 body{ line-height: 1;}
 
 ol,
-ul { list-style: none; }
+ul { list-style: none;}
 
-h5 { font-weight: bolder; }
+h5 { font-weight: bolder;}
 
 blockquote,
-q { quotes: none; }
+q { quotes: none;}
 
 blockquote:before,
 blockquote:after,
@@ -123,7 +123,7 @@ table {
 }
 
 html,
-body { max-width: 100%; }
+body { max-width: 100%;}
 
 body {
     margin: 0px;
@@ -201,9 +201,7 @@ body {
   border-radius: 4px 0 0 4px;
 }
 
-.font-size {
-  font-size: 12px;
-}
+.font-size {font-size: 12px;}
 
 .nav-input {
   display: -webkit-box;
@@ -263,7 +261,7 @@ footer {
   color: #08c;
 }
 
-.footer a:hover { text-decoration: underline; }
+.footer a:hover { text-decoration: underline;}
 
 .footer {
   width: 1100px;
@@ -293,7 +291,7 @@ footer {
   border-right: 1px solid lightgray;
 }
 
-.footer_two { display: flex; }
+.footer_two { display: flex;}
 
-.footer_two ul{ display: flex; }
+.footer_two ul{ display: flex;}
 
