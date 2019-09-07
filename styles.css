@@ -201,7 +201,7 @@ body{
   border-radius: 4px 0 0 4px;
 }
 
-.font-size{font-size: 12px;}
+.font-size{ font-size: 12px; }
 
 .nav-input{
   display: -webkit-box;
