@@ -10,5 +10,7 @@ Built with HTML and CSS
 SETTING UP
 Clone this repository https://github.com/Elijahscriptdev/Apple_Page.git
 
+UUSING THIS PROJECT  https://raw.githack.com/Elijahscriptdev/Apple_Page/apple-branch/index.html
+
 AUTHOR
 Elijah Obominuru
