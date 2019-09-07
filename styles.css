@@ -86,7 +86,6 @@ video {
   font: inherit;
   vertical-align: baseline;
 }
-
 /* HTML5 display-role reset for older browsers */
 article,
 aside,
@@ -98,27 +97,17 @@ header,
 hgroup,
 menu,
 nav,
-section {
-  display: block;
-}
+section{ display: block; }
 
-body {
-  line-height: 1;
-}
+body{ line-height: 1;}
 
 ol,
-ul {
-  list-style: none;
-}
+ul { list-style: none; }
 
-h5 {
-  font-weight: bolder;
-}
+h5 { font-weight: bolder; }
 
 blockquote,
-q {
-  quotes: none;
-}
+q { quotes: none; }
 
 blockquote:before,
 blockquote:after,
@@ -134,9 +123,7 @@ table {
 }
 
 html,
-body {
-  max-width: 100%;
-}
+body { max-width: 100%; }
 
 body {
     margin: 0px;
@@ -167,9 +154,7 @@ body {
   font-size: 50px;
   font-weight: 100;
 }
-
 /* Nav */
-
 .nav-header {
   position: relative;
   top: 18px;
@@ -198,15 +183,15 @@ body {
   color: white;
   text-decoration: none;
   -webkit-border-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F%2BKwQEADZUCf37PGokAAAAASUVORK5CYII%3D) 0 2 0 1;
-    -o-border-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F%2BKwQEADZUCf37PGokAAAAASUVORK5CYII%3D) 0 2 0 1;
-      border-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F%2BKwQEADZUCf37PGokAAAAASUVORK5CYII%3D) 0 2 0 1;
+  -o-border-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F%2BKwQEADZUCf37PGokAAAAASUVORK5CYII%3D) 0 2 0 1;
+  border-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F%2BKwQEADZUCf37PGokAAAAASUVORK5CYII%3D) 0 2 0 1;
   border-right-style: solid;
   border-right-width: 2px;
-    -webkit-box-align: center;
-      -webkit-box-pack: center;
-        -ms-flex-pack: center;
+  -webkit-box-align: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
-    -ms-flex-align: center;
+  -ms-flex-align: center;
   align-items: center;
 }
 
@@ -227,11 +212,11 @@ body {
   width: 100%;
   height: 100%;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .nav-input form {
@@ -240,7 +225,7 @@ body {
   margin: 0;
   border-radius: 19px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.6) 0 2px 1px inset, rgba(255, 255, 255, 0.2) 0 1px 0;
-          box-shadow: rgba(0, 0, 0, 0.6) 0 2px 1px inset, rgba(255, 255, 255, 0.2) 0 1px 0;
+  box-shadow: rgba(0, 0, 0, 0.6) 0 2px 1px inset, rgba(255, 255, 255, 0.2) 0 1px 0;
 }
 
 .nav-input form input {
