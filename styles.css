@@ -297,7 +297,9 @@ footer {
 }
 
 .footer_one ul{
-  margin-left: 50px
+  margin-left: 50px;
+  display: flex;
+  float: right;
 }
 
 .footer_one ul li{
@@ -310,11 +312,6 @@ footer {
   font-style: normal;
   padding: 0px 6px;
   border-right: 1px solid lightgray;
-}
-
-.footer_one ul { 
-  display: flex;
-  float: right;
 }
 
 .footer_two {
