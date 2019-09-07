@@ -257,17 +257,13 @@ body {
   font-size: 22px;
   color: #5e5e5e important;
 }
-
 /* Promo */
 .promo {
   display: grid;
   grid-template-columns: auto auto auto auto;
 }
 
-.promo img {
-  width: 100%;
-}
-
+.promo img { width: 100%; }
 /* footer */
 footer {
   width: 100%;
@@ -282,9 +278,7 @@ footer {
   color: #08c;
 }
 
-.footer a:hover {
-  text-decoration: underline;
-}
+.footer a:hover { text-decoration: underline; }
 
 .footer {
   width: 1100px;
@@ -314,11 +308,7 @@ footer {
   border-right: 1px solid lightgray;
 }
 
-.footer_two {
-  display: flex;
-}
+.footer_two { display: flex; }
 
-.footer_two ul{
-  display: flex;
-}
+.footer_two ul{ display: flex; }
 
