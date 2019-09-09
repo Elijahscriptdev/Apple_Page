@@ -171,7 +171,7 @@ body {
   grid-template-columns: repeat(8, 1fr) 132px;
 }
 
-.footer a { 
+.footer a {
   text-decoration: none;
   color: #08c;
 }
